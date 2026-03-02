@@ -58,3 +58,8 @@ display: flex;
     background-color: rgb(255, 38, 38);
     padding-right: 80px;
 }
+
+.verde{
+    background-color: rgb(15, 255, 27);
+    padding-bottom: 80px;
+}
