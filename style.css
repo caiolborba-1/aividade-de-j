@@ -27,3 +27,34 @@ display: flex;
 
 
 }
+
+.purple{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.blue{
+    background-color: blue  ;
+    padding: 20px;
+    margin: 30px;
+
+}
+
+.yo{
+    background-color: rgb(253, 238, 27)  ;
+    padding: 20px;
+    margin: 10px;
+
+    
+}
+
+.flex{
+    display: flex;
+
+}
+
+.red{
+    background-color: rgb(255, 38, 38);
+    padding-right: 80px;
+}
