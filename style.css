@@ -63,3 +63,37 @@ display: flex;
     background-color: rgb(15, 255, 27);
     padding-bottom: 80px;
 }
+
+
+.roxo{
+    background-color: rgb(255, 2, 255);
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.blue{
+    background-color: blue  ;
+    padding: 20px;
+    margin: 30px; 
+}
+
+.flex{
+    display: flex;
+}
+
+.yo{
+    background-color: rgb(255, 238, 0) ;
+    padding: 20px;
+    margin: 10px;
+}
+
+.gordao{
+    background-color: rgb(253, 0, 0);
+    padding-bottom: 80PX;
+}
+
+
+
+
+
