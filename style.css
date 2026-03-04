@@ -94,10 +94,30 @@ display: flex;
 }
 
 .gordao{
-    background-color: rgb(217, 255, 0);
     padding-bottom: 80PX;
 }
 
 
 
 
+.medio{
+    background-color: rgb(255, 0, 0);
+    padding-right: 100px;
+    
+    
+}
+
+.orange{
+    background-color: rgb(250, 171, 0);
+    padding-bottom: 80px;
+
+}
+
+
+.borda{
+    margin-top: 20;
+}
+
+.par{
+    padding-bottom: 20px;
+}
