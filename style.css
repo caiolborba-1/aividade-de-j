@@ -121,3 +121,128 @@ display: flex;
 .par{
     padding-bottom: 20px;
 }
+
+.porple{
+background-color: blueviolet;
+display: flex;
+justify-content: center;
+padding: 30px;
+}
+.blue{
+background-color: aqua;
+margin: 20px;
+padding: 20px;
+}
+.yo{
+background-color: brown;
+padding: 20px;
+margin: 20px;
+}
+.flex{
+display: flex;
+}
+.red{
+background-color: yellow;
+padding-right: 110px;
+}
+.green{
+ background-color: black;
+ padding-bottom: 80px;
+}
+.preto {
+background-color: chartreuse;
+padding-bottom: 80px;
+margin: 20px;
+}
+.PURPURA{
+width: 85px ;
+height: 85px ;
+}
+.LADO{
+ padding-top: 80px;
+}
+.burro{
+ padding-top: 50px ;
+}
+.merda{
+ padding-left: 30px;
+}
+.borda{
+margin-top: 20px;
+}
+.gordao{
+padding-bottom: 40px;
+}
+.un{
+padding-bottom: 100px ;
+}
+.dos{
+ padding-bottom: 80px;
+}
+.tam{
+width: 80px;
+}
+.teste{
+margin-top: 0px;
+margin-bottom: 0px;
+background-color: blue;
+height: 20px;
+}
+.testes{
+ margin-bottom: 0px;
+}
+.pontos{
+padding-bottom: 90px;
+margin-bottom: 0px;
+}
+.like{
+padding-right: 80px;
+}
+.fake{
+margin-right: 0px;
+width: 60px;
+}
+.ladoso{
+ width: 40px;
+}
+.deus{
+ height: 160px;
+}
+.kratos{
+ height: 60px;
+}
+.ladosoy{
+ width: 80px;
+}
+.l{
+width: 80px;
+margin-right: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+.p{
+ margin-bottom: 10px;
+ height: 50px;
+
+}
+.kratoss{
+height: 60px;
+margin-bottom: 20px;
+}
+.e{
+ margin-left: 0px;
+}
+.ladoco{
+ width: 40px;
+ margin-right: 0px;
+}
+.muito{
+ width: 60px;
+}
+.kratosss{
+ height: 80px;
+ margin-bottom: 0px;
+}
+.muitos{
+ width: 80px;
+}
